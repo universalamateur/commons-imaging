@@ -5,6 +5,8 @@ Welcome to Apache Commons Imaging  <http://commons.apache.org/imaging/>
 License (see also LICENSE)
 ==============================
 
+Test commit
+
 Collective work: Copyright 2007-2012 The Apache Software Foundation.
 
 Licensed to the Apache Software Foundation (ASF) under one or more
